@@ -8,7 +8,7 @@
 
 食我目前是個相當精實的小型團隊，是個平均年齡約30歲，是個同時具備活力與技能經驗的團隊。動靜分明是我們的團隊文化，彈性自律是我們的工作風格，在這裡沒有太多的規範，上下班不打卡，也可自行安排工作時間，高度的自律搭配目標導向的管理模式，成就了一個快而精實的新創團隊。目前整個團隊都聚焦在開發 Eatgether，朝著打造一個來自台灣的國際化餐飲社交平台而努力。我們認為新創公司的人才就是一切，每個加入的人都會改變這個團隊與產品，非常期待有你的加入！
 
-《員工福利》
+# 員工福利
 
 * 彈性工時與請假規範
 * 每半年至一年薪資績效考核一次
@@ -38,8 +38,8 @@ Eatgether自2016年底上線至今已經有百萬個用戶，每月將近20000�
 
 # 媒體曝光
 
-https://www.bnext.com.tw/article/54605/eatgether-pre-a-round
-https://money.udn.com/money/story/10860/4207556
-https://www.managertoday.com.tw/articles/view/57189
-https://game.ettoday.net/article/722102.htm
-https://apps.apple.com/tw/story/id1490398707
+* https://www.bnext.com.tw/article/54605/eatgether-pre-a-round
+* https://money.udn.com/money/story/10860/4207556
+* https://www.managertoday.com.tw/articles/view/57189
+* https://game.ettoday.net/article/722102.htm
+* https://apps.apple.com/tw/story/id1490398707
